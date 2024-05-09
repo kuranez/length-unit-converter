@@ -1,0 +1,9 @@
+name: minimal_venv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - ipywidgets
+  - widgetsnbextension
+  - voila
