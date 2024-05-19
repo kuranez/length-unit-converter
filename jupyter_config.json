@@ -1,0 +1,13 @@
+{
+  "VoilaConfiguration": {
+        "enable_nbextensions": true,
+        "theme": "dark",
+        "template": "vuetify-default",
+        "extension_language_mapping": {
+            ".py": "python",
+        },
+        "language_kernel_mapping": {
+            "python": "python3"
+        }
+    }
+}
