@@ -1,9 +1,9 @@
-name: minimal_venv
+name: unit-converter
 channels:
   - conda-forge
 dependencies:
   - python=3.11
-  - tabulate
+  - ipython
   - ipywidgets
   - widgetsnbextension
   - voila
