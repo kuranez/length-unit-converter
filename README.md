@@ -4,10 +4,10 @@ Babby's first GUI project. Unit converter for length measurements.
 ## WebApp
 **Universal Length Unit Converter** \
 All-in-One Tool \
-Version: 1.0 \
+Version: 1.2 \
 Language: English \
  \
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/main?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F0-Universal-Length-Unit-Converter-V1-0.ipynb) \
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/unit-converter-basic?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F0-Universal-Length-Unit-Converter-V1-2.ipynb) \
  \
 **Supports:** 
 - SI-Units (Metric)
@@ -18,13 +18,11 @@ Language: English \
 
 ## Modular Versions
 **SI-Unit Converter** \
-Metric conversion \
-Version: 1.1 \
-Language: German \
+Version: 1.2 \
+Language: English \
  \
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/main?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F1-SI-Unit-Converter-Module-V1-1.ipynb) \
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/unit-converter-basic?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F1-SI-Unit-Converter-Module-V1-2.ipynb) \
 Metric Conversion \
-Basic Styled GUI + Conversion Tables 
 
 ---
 
@@ -32,9 +30,8 @@ Basic Styled GUI + Conversion Tables
 Version: 1.2 \
 Language: English \
  \
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/main?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F2-US-Unit-Converter-V1-2.ipynb) \
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/unit-converter-basic?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F2-US-Unit-Converter-V1-2.ipynb) \
 Imperial to Metric Conversion \
-Basic Styled GUI + Conversion Tables 
 
 ---
 
@@ -42,9 +39,8 @@ Basic Styled GUI + Conversion Tables
 Version: 1.2 \
 Language: English \
  \
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/main?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F3-Nautical-Unit-Converter-V1-2.ipynb) \
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/unit-converter-basic?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F3-Nautical-Unit-Converter-V1-2.ipynb) \
 Nautical miles to Metric and Imperial \
-Basic Styled GUI + Conversion Tables 
 
 ---
 
@@ -52,9 +48,8 @@ Basic Styled GUI + Conversion Tables
 Version: 1.2 \
 Language: English \
  \
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/main?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F4-Astro-Unit-Converter-V1-2.ipynb) \
- Astronomical units: metric, light years, parsecs \
- Basic Styled GUI + Conversion Tables  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/unit-converter-basic?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F4-Astro-Unit-Converter-V1-2.ipynb) \
+Astronomical units: metric, light years, parsecs \
  
  ---
 
@@ -62,22 +57,17 @@ Language: English \
 Version: 1.2 \
 Language: English \
  \
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/main?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F5-Molecular-Unit-Converter.ipynb) \
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/unit-converter-basic?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F5-Molecular-Unit-Converter-V1-2.ipynb) \
 Atomic to (macro)molecular scale \
-Basic Styled GUI + Conversion Tables 
 
 ---
 
 ## Issues
 **ALL**
 - *values:* norm to 4 decimal places
-- *tables:* change text "abbreviation" to "symbol"
 
- \
- **Modules** 
- - **SI-Unit Converter**
-   -- update to English Version V1.2
-- **Astromical Unit Converter**
-   -- change titles and add descriptions
-- **Atomic & Molecular Distances Converter**
-  -- change titles and add desciprions
+---
+
+## Changes
+**ALL**
+- Consistent labeling and formatting, fixed typos
