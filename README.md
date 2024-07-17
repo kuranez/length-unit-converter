@@ -30,7 +30,7 @@ Babby's first GUI project. Unit converter for length measurements. \
 ---
 
 ## Issues
-- Output not formatted -> norm to 4 decimal places
+- Output not formatted -> norm values to 4 decimal places
 - Jupyter Lab theme does not render correctly
 
 ---
