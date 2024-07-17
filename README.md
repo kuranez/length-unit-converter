@@ -41,8 +41,6 @@ Babby's first GUI project. Unit converter for length measurements. \
 | **Title** | **Description** |
 |-----------|-----------------|
 | <ul><li>**Universal Length Unit Converter**</li> <li>[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/main?urlpath=%2Fvoila%2Frender%2Fold%2F0-Universal-Length-Unit-Converter-V1-2.ipynb)</li></ul> | <ul><li>All-in-One Tool</li> <li>Version: 1.2</li> <li>Language: English</li> <li>Basic GUI  + Conversion Tables</li></ul> | 
-
----
  
 ### Modular Versions
 | **Title** | **Description** |
