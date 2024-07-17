@@ -22,7 +22,7 @@ Version: 1.2 \
 Language: English \
  \
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/unit-converter-basic?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F1-SI-Unit-Converter-Module-V1-2.ipynb) \
-Metric Conversion \
+Metric Conversion 
 
 ---
 
@@ -31,7 +31,7 @@ Version: 1.2 \
 Language: English \
  \
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/unit-converter-basic?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F2-US-Unit-Converter-V1-2.ipynb) \
-Imperial to Metric Conversion \
+Imperial to Metric Conversion 
 
 ---
 
@@ -40,7 +40,7 @@ Version: 1.2 \
 Language: English \
  \
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/unit-converter-basic?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F3-Nautical-Unit-Converter-V1-2.ipynb) \
-Nautical miles to Metric and Imperial \
+Nautical miles to Metric and Imperial 
 
 ---
 
@@ -49,7 +49,7 @@ Version: 1.2 \
 Language: English \
  \
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/unit-converter-basic?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F4-Astro-Unit-Converter-V1-2.ipynb) \
-Astronomical units: metric, light years, parsecs \
+Astronomical units: metric, light years, parsecs 
  
  ---
 
@@ -58,16 +58,16 @@ Version: 1.2 \
 Language: English \
  \
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/unit-converter-basic?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F5-Molecular-Unit-Converter-V1-2.ipynb) \
-Atomic to (macro)molecular scale \
-
----
-
-## Issues
-**ALL**
-- *values:* norm to 4 decimal places
+Atomic to (macro)molecular scale 
 
 ---
 
 ## Changes
 **ALL**
 - Consistent labeling and formatting, fixed typos
+
+---
+
+## Issues
+**ALL**
+- *values:* norm to 4 decimal places
