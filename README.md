@@ -38,16 +38,16 @@ Babby's first GUI project. Unit converter for length measurements. \
 ## History
 
 ### All-In-One Tool
-| **Title** | **Description** |
+| **Module** | **Description** |
 |-----------|-----------------|
-| <ul><li>**Universal Length Unit Converter**</li> <li>[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/main?urlpath=%2Fvoila%2Frender%2Fold%2F0-Universal-Length-Unit-Converter-V1-2.ipynb)</li></ul> | <ul><li>All-in-One Tool</li> <li>Version: 1.2</li> <li>Language: English</li> <li>Basic GUI  + Conversion Tables</li></ul> | 
+| <ul><li>**Universal Length Unit Converter**</li> <li>Click to [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/main?urlpath=%2Fvoila%2Frender%2Fold%2F0-Universal-Length-Unit-Converter-V1-2.ipynb) !</li></ul> | <ul><li>All-in-One Tool</li> <li>Version: 1.2</li> <li>Language: English</li> <li>Basic GUI</li> <li>Conversion Tables</li></ul> | 
  
 ### Modular Versions
-| **Title** | **Description** |
+| **Module** | **Description** |
 |-----------|-----------------|
-| <ul><li>**SI-Unit Converter**</li> <li>[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/main?urlpath=%2Fvoila%2Frender%2Fold%2F1-SI-Unit-Converter-Module-V1-2.ipynb)</li></ul> | <ul><li>Metric conversion</li> <li>Version: 1.2</li> <li>Language: English</li> <li>Metric Conversion</li> <li>Basic GUI + Conversion Tables</li></ul> | 
-| <ul><li>**US-Unit Converter**</li> <li>[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/main?urlpath=%2Fvoila%2Frender%2Fold%2F2-US-Unit-Converter-V1-2.ipynb)</li></ul> | <ul><li>Version: 1.2</li> <li>Language: English</li> <li>Imperial to Metric Conversion</li> <li>Basic GUI + Conversion Tables</li></ul> | 
-| <ul><li>**Nautical Unit Converter**</li></ul> | <ul><li>Version: 1.2</li> <li>Language: English</li> <li>Nautical miles to Metric and Imperial</li> <li>Basic GUI + Conversion Tables</li></ul>| 
-| <ul><li>**Astronomical Unit Converter**</li></ul> | <ul><li>Version: 1.2</li> <li>Language: English</li> <li>Astronomical units: metric, light years, parsecs</li> <li>Basic GUI + Conversion Tables</li></ul> |
-| <ul><li>**Atomic & Molecular Distances Converter**</li></ul> | <ul><li>Version: 1.2</li> <li>Language: English</li> <li>For particle and molecule sizes</li> <li>Basic GUI + Conversion Tables</li></ul> | 
+| <ul><li>**1.  SI-Unit Converter**</li> <li>Metric Conversion in International Units</li> <li>Click to [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/main?urlpath=%2Fvoila%2Frender%2Fold%2F1-SI-Unit-Converter-Module-V1-2.ipynb) !</li></ul> | <ul><li>Version: 1.2</li> <li>Language: English</li> <li>Metric Conversion</li> <li>Basic GUI</li> <li>Conversion Tables</li></ul> | 
+| <ul><li>**2. US-Unit Converter**</li> <li>Imperial to Metric Conversion</li> <li>Click to [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/main?urlpath=%2Fvoila%2Frender%2Fold%2F2-US-Unit-Converter-V1-2.ipynb) !</li></ul> | <ul><li>Version: 1.2</li> <li>Language: English</li> <li>Basic GUI</li> <li>Conversion Tables</li></ul> | 
+| <ul><li>**3. Nautical Unit Converter**</li> <li>Nautical Miles to Metric and Imperial Units</li> <li> Click to [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/main?urlpath=%2Fvoila%2Frender%2Fold%2F3-Nautical-Unit-Converter-V1-2.ipynb) !</li></ul> | <ul><li>Version: 1.2</li> <li>Language: English</li> <li>Basic GUI</li> <li>Conversion Tables</li></ul>| 
+| <ul><li>**4. Astronomical Unit Converter**</li> <li>Astronomical Units: Metric, Light Years, Parsecs</li> <li>Click to [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/main?urlpath=%2Fvoila%2Frender%2Fold%2F4-Astro-Unit-Converter-V1-2.ipynb) !</li></ul> | <ul><li>Version: 1.2</li> <li>Language: English</li> <li>Basic GUI</li> <li>Conversion Tables</li></ul> |
+| <ul><li>**5. Atomic & Molecular Distances Converter**</li> <li>For Particle and Molecule Sizes</li> <li>Click to [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/main?urlpath=%2Fvoila%2Frender%2Fold%2F5-Molecular-Unit-Converter-V1-2.ipynb) !</li></ul> | <ul><li>Version: 1.2</li> <li>Language: English</li> <li>Basic GUI</li> <li>Conversion Tables</li></ul> | 
 
