@@ -1,8 +1,7 @@
 {
   "VoilaConfiguration": {
         "enable_nbextensions": true,
-        "theme": "dark",
-        "template": "vuetify-default",
+        "theme": "JupyterLab Miami Nights",
         "extension_language_mapping": {
             ".py": "python",
         },
