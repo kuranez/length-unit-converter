@@ -4,7 +4,7 @@ Babby's first GUI project. Unit converter for length measurements.
 ## WebApp
 **Universal Length Unit Converter** \
 All-in-One Tool \
-Version: 1.2 \
+Version: 1.3 \
 Language: English \
  \
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuranez/Unit-Converter/unit-converter-basic?urlpath=%2Fvoila%2Frender%2Fnotebooks%2F0-Universal-Length-Unit-Converter-V1-3.ipynb) \
