@@ -20,7 +20,11 @@ Babby's first GUI project. Unit converter for length measurements in Jupyter Not
 - `panel`
 
 **Launch App:**
-- Use the following command in the terminal to launch a local instance of the app in your browser: `panel serve 3-1_universal-length-unit-converter.ipynb`
+- Use the following command in the terminal to launch a local instance of the app in your browser:
+
+```bash
+panel serve 3-1_universal-length-unit-converter.ipynb
+```
 
 ---
 ## Changes
@@ -35,7 +39,7 @@ Babby's first GUI project. Unit converter for length measurements in Jupyter Not
 ---
 ## Screenshot
 
-| v. 3.0: Vapowave themed GUI                                                                                                                                          |
+| v. 3.1: Vapowave themed GUI                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Screenshot.png\|429](https://raw.githubusercontent.com/kuranez/Length-Unit-Converter/refs/heads/main/images/screenshots/screenshot_version_3-1.png) |
 
