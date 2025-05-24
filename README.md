@@ -1,6 +1,6 @@
 # Length Unit Converter
 
-**Version: 3.0** 
+**Version: 3.1** 
 
 Babby's first GUI project. Unit converter for length measurements in Jupyter Notebook.  
 
@@ -37,7 +37,7 @@ Babby's first GUI project. Unit converter for length measurements in Jupyter Not
 
 | v. 3.0: Vapowave themed GUI                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Screenshot.png\|429](https://raw.githubusercontent.com/kuranez/Length-Unit-Converter/refs/heads/Panel-Version-(v.3.0)/images/screenshots/screenshot_version_3.png) |
+| ![Screenshot.png\|429](https://raw.githubusercontent.com/kuranez/Length-Unit-Converter/refs/heads/main/images/screenshots/screenshot_version_3-1.png) |
 
 
 ---
@@ -46,7 +46,7 @@ Babby's first GUI project. Unit converter for length measurements in Jupyter Not
 
 | Panel WebApp<br>                                                                                         | **Vaporvawe Notebook**                                                                                                                                    | **Basic GUI (v. 1.0 - v. 1.4)**                                                                       |
 | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| v. 3.0 [↗](https://github.com/kuranez/Length-Unit-Converter/tree/Panel-Version-(v.3.0))                  | v. 2.0 [↗](https://raw.githubusercontent.com/kuranez/Length-Unit-Converter/refs/heads/Panel-Version-(v.3.0)/images/screenshots/screenshot_version_2.png)) | v. 1.4 [↗](https://github.com/kuranez/Length-Unit-Converter/tree/unit-converter-basic)                |
+| v. 3.0 [↗](https://raw.githubusercontent.com/kuranez/Length-Unit-Converter/refs/heads/main/images/screenshots/screenshot_version_3.png)              | v. 2.0 [↗](https://raw.githubusercontent.com/kuranez/Length-Unit-Converter/refs/heads/Panel-Version-(v.3.0)/images/screenshots/screenshot_version_2.png)) | v. 1.4 [↗](https://github.com/kuranez/Length-Unit-Converter/tree/unit-converter-basic)                |
 | - Widgets: `panel`<br>- Language: English<br>- Vaporwave theme<br>- Improved Layout<br>- Working WebApp! | - Widgets: `ipywidgets`<br>- Language: English<br>-  Cleaned up user interface<br>- Vaporwave themed<br>- ! Theme broken !                                | - Widgets: `ipywidgets`<br>- Language: English<br>- Basic GUI / Notebook<br>- Incl. Conversion Tables |
 
 
@@ -62,7 +62,7 @@ I started the project in the beginning of last year.
 
 | Learning Curve                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Screenshot.png\|429](https://raw.githubusercontent.com/kuranez/Length-Unit-Converter/refs/heads/Panel-Version-(v.3.0)/learning-progress/learning%20progress.png) |
+| ![Screenshot.png\|429](https://raw.githubusercontent.com/kuranez/Length-Unit-Converter/refs/heads/main/learning-progress/learning%20progress.png) |
 
 ### First scripts in Jupyter Notebook
 
