@@ -1,6 +1,6 @@
 # Length Unit Converter
 
-**Version: 3.1** 
+**Version: 3.2 alpha** 
 
 Babby's first GUI project. Unit converter for length measurements in Jupyter Notebook.  
 
@@ -23,23 +23,29 @@ Babby's first GUI project. Unit converter for length measurements in Jupyter Not
 - Use the following command in the terminal to launch a local instance of the app in your browser:
 
 ```bash
-panel serve 3-1_universal-length-unit-converter.ipynb
+panel serve 3-2_universal-length-unit-converter.ipynb
 ```
 
 ---
 ## Changes
 
-**Version: 3.1**
+**Version: 3.2**
 
 **New:**
-- Reworked button callbacks
-- Minor fixes and adjustments to code and banners
+- **Reworked scaling:** App now fills out the full screen.
+- Reworked button callbacks.
+- Resized banner images.
+- Gridspec layout.
+- **Added Section:** _VII. Serve App_ in the notebook for documentation purposes.
+- Options serving panel app.
+- Creating a systemd.service.
+- Configuration of nginx.
 
 
 ---
 ## Screenshot
 
-| v. 3.1: Vapowave themed GUI                                                                                                                                          |
+| v. 3.2: Vapowave themed GUI                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Screenshot.png\|429](https://raw.githubusercontent.com/kuranez/Length-Unit-Converter/refs/heads/main/images/screenshots/screenshot_version_3-1.png) |
 
