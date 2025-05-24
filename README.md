@@ -12,16 +12,25 @@ Babby's first GUI project. Unit converter for length measurements in Jupyter Not
 - Astronomical Distances
 - Atomic and Molecular Distances
 
+**Features:**
+- Vaporeave themed GUI using HoloViz Panel (https://panel.holoviz.org/).
+
 **Python Dependencies:**
 
 - `panel`
 
+**Launch App:**
+- Use the following command in the terminal to launch a local instance of the app in your browser: `panel serve 3-1_universal-length-unit-converter.ipynb`
+
 ---
 ## Changes
 
-**New in version 3.0:**
-- Merged Components.
-- Migrated GUI to HoloViz Panel (https://panel.holoviz.org/).
+**Version: 3.1**
+
+**New:**
+- Reworked button callbacks
+- Minor fixes and adjustments to code and banners
+
 
 ---
 ## Screenshot
