@@ -1,6 +1,6 @@
 # Length Unit Converter
 
-**Version: 3.2 alpha** 
+**Version: 3.2** 
 
 Babby's first GUI project. Unit converter for length measurements in Jupyter Notebook.  
 
@@ -47,7 +47,7 @@ panel serve 3-2_universal-length-unit-converter.ipynb
 
 | v. 3.2: Vapowave themed GUI                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Screenshot.png\|429](https://raw.githubusercontent.com/kuranez/Length-Unit-Converter/refs/heads/main/images/screenshots/screenshot_version_3-1.png) |
+| ![Screenshot.png\|429](https://raw.githubusercontent.com/kuranez/Length-Unit-Converter/refs/heads/main/images/screenshots/screenshot_version_3-2.png) |
 
 
 ---
