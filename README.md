@@ -23,7 +23,7 @@ Babby's first GUI project. Unit converter for length measurements in Jupyter Not
 - Use the following command in the terminal to launch a local instance of the app in your browser:
 
 ```bash
-panel serve 3-2_universal-length-unit-converter.ipynb
+panel serve app.ipynb
 ```
 
 ---
@@ -56,7 +56,7 @@ panel serve 3-2_universal-length-unit-converter.ipynb
 
 | Panel WebApp<br>                                                                                         | **Vaporvawe Notebook**                                                                                                                                    | **Basic GUI (v. 1.0 - v. 1.4)**                                                                       |
 | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| v. 3.0 [↗](https://raw.githubusercontent.com/kuranez/Length-Unit-Converter/refs/heads/main/images/screenshots/screenshot_version_3.png)              | v. 2.0 [↗](https://raw.githubusercontent.com/kuranez/Length-Unit-Converter/refs/heads/Panel-Version-(v.3.0)/images/screenshots/screenshot_version_2.png)) | v. 1.4 [↗](https://github.com/kuranez/Length-Unit-Converter/tree/unit-converter-basic)                |
+| v. 3.0 [↗](https://raw.githubusercontent.com/kuranez/length-unit-converter/refs/heads/main/images/screenshots/screenshot_version_3.png)              | v. 2.0 [↗](https://raw.githubusercontent.com/kuranez/length-unit-converter/refs/heads/main/images/screenshots/screenshot_version_2.png) | v. 1.4 [↗](https://github.com/kuranez/length-unit-converter/releases/tag/v1.4)                |
 | - Widgets: `panel`<br>- Language: English<br>- Vaporwave theme<br>- Improved Layout<br>- Working WebApp! | - Widgets: `ipywidgets`<br>- Language: English<br>-  Cleaned up user interface<br>- Vaporwave themed<br>- ! Theme broken !                                | - Widgets: `ipywidgets`<br>- Language: English<br>- Basic GUI / Notebook<br>- Incl. Conversion Tables |
 
 
