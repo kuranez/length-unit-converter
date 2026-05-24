@@ -89,3 +89,4 @@ I started the project in the beginning of last year.
 
 - **JupyterLab**:  Interactive Python Notebooks [↗](https://jupyter.org/)
 - **Holoviz Panel**: Data Exploration & Web App Framework [↗](https://panel.holoviz.org/)
+- **NIST Guide to the SI**, Appendix B.8: Factors for Units Listed Alphabetically [↗](https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8)
